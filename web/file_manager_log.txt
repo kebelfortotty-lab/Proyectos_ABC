@@ -1,0 +1,9 @@
+Buscando carpetas en: archivos
+Carpeta actual: archivos
+Carpetas encontradas: 0
+Buscando carpetas en: archivos
+Carpeta actual: archivos
+Carpetas encontradas: 0
+Buscando carpetas en: archivos
+Carpeta actual: archivos/00-CBC
+Carpetas encontradas: 8
